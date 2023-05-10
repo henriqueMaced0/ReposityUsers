@@ -1,0 +1,23 @@
+.app {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.git{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.logo {
+    font-size: 65px;
+    cursor: pointer;
+    box-shadow: 0 0 15px #FF4500;
+    border-radius: 50%;
+  }
+
+.logo:hover{
+    box-shadow: 0 0 15px #ff0000;
+    border-radius: 50%;
+    font-size: 70px;
+}
